@@ -34,7 +34,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "sortablejs": "^1.7.0",
-    "splunk-sdk": "^1.8.3",
+    "splunk-sdk": "^1.9.0",
     "sqlite3": "^4.0.2",
     "stylus": "^0.54.5",
     "unzip": "^0.1.11",
