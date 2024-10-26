@@ -36,7 +36,7 @@
     "sortablejs": "^1.7.0",
     "splunk-sdk": "^1.8.3",
     "sqlite3": "^4.0.2",
-    "stylus": "^0.54.5",
+    "stylus": "^0.64.0",
     "unzip": "^0.1.11",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.2",
